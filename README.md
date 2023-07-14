@@ -27,7 +27,7 @@ The application includes sample routes:
 - `/user` which displays a list of users.
  You can modify these routes or add new routes by editing the _"app/routes.php"_ file.
 
-### _The controllers and views for each route can be found in the "app/Controllers" and "app/Views" directories, respectively. The models can be found in the "app/Models" directory._
+- _`The controllers and views for each route can be found in the "app/Controllers" and "app/Views" directories, respectively. The models can be found in the "app/Models" directory.`_
 
 ## License
 
